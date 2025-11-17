@@ -1,0 +1,3 @@
+/home/zms/class/build/CMakeFiles/rebuild_cache.dir
+/home/zms/class/build/CMakeFiles/edit_cache.dir
+/home/zms/class/build/CMakeFiles/demo.dir
